@@ -298,13 +298,13 @@ body {
   line-height: 2;
   color: var(--title-text-color);
   letter-spacing: 0.06em;
-  margin: 0px 24px 4px 24px;
+  margin: 0px 23px 4px 23px;
   padding-top: 20px;
 }
 .project-type {
   font-size: 16px;
   line-height: 1.8;
-  margin: 4px 24px 20px 24px;
+  margin: 4px 23px 20px 23px;
 }
 .portfolio-card {
   display: flex;
